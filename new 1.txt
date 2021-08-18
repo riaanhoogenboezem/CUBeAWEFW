@@ -1,0 +1,4 @@
+
+ https://raw.githubusercontent.com/riaanhoogenboezem/esp32_ota/main/fw.bin
+ 
+ https://raw.githubusercontent.com/riaanhoogenboezem/CUBeAWEFW/main/fw.bin
